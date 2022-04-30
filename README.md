@@ -70,10 +70,12 @@ o array deve ficar assim:
 
 Neste projeto foram utilizadas as seguintes ferramentas:
 
-- [Node](https://nodejs.org/en/)  
+- [Node.js](https://nodejs.org/en/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Express](https://expressjs.com/pt-br/)
 - [Insomnia](https://insomnia.rest/products/insomnia)
 - [uuid](https://www.npmjs.com/package/uuid)
+
 
 
 ## 🤝 Colaboradores
