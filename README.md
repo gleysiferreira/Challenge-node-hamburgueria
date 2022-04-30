@@ -89,8 +89,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
             <td align="center">
-            <img src="https://avatars.githubusercontent.com/u/40034445?v=4
-" width="100px;" alt="foto Rafael"/><br>
+            <img src="https://avatars.githubusercontent.com/u/40034445?v=4" width="100px;" alt="foto Rafael"/><br>
             <sub>
                 <b>Rafael Viana</b>
             </sub>
